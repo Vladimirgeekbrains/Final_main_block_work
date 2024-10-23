@@ -1,0 +1,14 @@
+C:\Users\User1\Desktop\final_work_on_the_main_block\bin\Debug\net8.0\final_work_on_the_main_block.exe
+C:\Users\User1\Desktop\final_work_on_the_main_block\bin\Debug\net8.0\final_work_on_the_main_block.deps.json
+C:\Users\User1\Desktop\final_work_on_the_main_block\bin\Debug\net8.0\final_work_on_the_main_block.runtimeconfig.json
+C:\Users\User1\Desktop\final_work_on_the_main_block\bin\Debug\net8.0\final_work_on_the_main_block.dll
+C:\Users\User1\Desktop\final_work_on_the_main_block\bin\Debug\net8.0\final_work_on_the_main_block.pdb
+C:\Users\User1\Desktop\final_work_on_the_main_block\obj\Debug\net8.0\final_work_on_the_main_block.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\final_work_on_the_main_block\obj\Debug\net8.0\final_work_on_the_main_block.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\final_work_on_the_main_block\obj\Debug\net8.0\final_work_on_the_main_block.AssemblyInfo.cs
+C:\Users\User1\Desktop\final_work_on_the_main_block\obj\Debug\net8.0\final_work_on_the_main_block.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\final_work_on_the_main_block\obj\Debug\net8.0\final_work_on_the_main_block.dll
+C:\Users\User1\Desktop\final_work_on_the_main_block\obj\Debug\net8.0\refint\final_work_on_the_main_block.dll
+C:\Users\User1\Desktop\final_work_on_the_main_block\obj\Debug\net8.0\final_work_on_the_main_block.pdb
+C:\Users\User1\Desktop\final_work_on_the_main_block\obj\Debug\net8.0\final_work_on_the_main_block.genruntimeconfig.cache
+C:\Users\User1\Desktop\final_work_on_the_main_block\obj\Debug\net8.0\ref\final_work_on_the_main_block.dll
